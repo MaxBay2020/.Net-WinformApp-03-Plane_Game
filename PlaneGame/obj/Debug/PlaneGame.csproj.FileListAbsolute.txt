@@ -1,0 +1,18 @@
+D:\学习材料\C语言\我的练习\C#练习\项目二、打飞机\PlaneGame\PlaneGame\bin\Debug\PlaneGame.exe.config
+D:\学习材料\C语言\我的练习\C#练习\项目二、打飞机\PlaneGame\PlaneGame\bin\Debug\PlaneGame.exe
+D:\学习材料\C语言\我的练习\C#练习\项目二、打飞机\PlaneGame\PlaneGame\bin\Debug\PlaneGame.pdb
+D:\学习材料\C语言\我的练习\C#练习\项目二、打飞机\PlaneGame\PlaneGame\obj\Debug\PlaneGame.csprojAssemblyReference.cache
+D:\学习材料\C语言\我的练习\C#练习\项目二、打飞机\PlaneGame\PlaneGame\obj\Debug\PlaneGame.Form1.resources
+D:\学习材料\C语言\我的练习\C#练习\项目二、打飞机\PlaneGame\PlaneGame\obj\Debug\PlaneGame.Properties.Resources.resources
+D:\学习材料\C语言\我的练习\C#练习\项目二、打飞机\PlaneGame\PlaneGame\obj\Debug\PlaneGame.csproj.GenerateResource.cache
+D:\学习材料\C语言\我的练习\C#练习\项目二、打飞机\PlaneGame\PlaneGame\obj\Debug\PlaneGame.exe
+D:\学习材料\C语言\我的练习\C#练习\项目二、打飞机\PlaneGame\PlaneGame\obj\Debug\PlaneGame.pdb
+D:\工作经历\My Portfolio\03. C#\04. Plane_Game\PlaneGame\PlaneGame\bin\Debug\PlaneGame.exe.config
+D:\工作经历\My Portfolio\03. C#\04. Plane_Game\PlaneGame\PlaneGame\bin\Debug\PlaneGame.exe
+D:\工作经历\My Portfolio\03. C#\04. Plane_Game\PlaneGame\PlaneGame\bin\Debug\PlaneGame.pdb
+D:\工作经历\My Portfolio\03. C#\04. Plane_Game\PlaneGame\PlaneGame\obj\Debug\PlaneGame.csprojAssemblyReference.cache
+D:\工作经历\My Portfolio\03. C#\04. Plane_Game\PlaneGame\PlaneGame\obj\Debug\PlaneGame.Form1.resources
+D:\工作经历\My Portfolio\03. C#\04. Plane_Game\PlaneGame\PlaneGame\obj\Debug\PlaneGame.Properties.Resources.resources
+D:\工作经历\My Portfolio\03. C#\04. Plane_Game\PlaneGame\PlaneGame\obj\Debug\PlaneGame.csproj.GenerateResource.cache
+D:\工作经历\My Portfolio\03. C#\04. Plane_Game\PlaneGame\PlaneGame\obj\Debug\PlaneGame.exe
+D:\工作经历\My Portfolio\03. C#\04. Plane_Game\PlaneGame\PlaneGame\obj\Debug\PlaneGame.pdb
